@@ -1,0 +1,4 @@
+[submodule "third_party/leveldatabase/src"]
+	path = third_party/leveldatabase/src
+	url = https://chromium.googlesource.com/external/leveldb.git
+	branch = 706b7f8d43b0aecdc75c5ee49d3e4ef5f27b9faf
